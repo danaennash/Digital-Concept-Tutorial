@@ -1,6 +1,8 @@
 # Digital-Concept-Tutorial
 
-##Getting into Digital Images
+
+
+##Getting Into Digital Images
 
 *Author: Danae N Nash*
 -----------------------------
