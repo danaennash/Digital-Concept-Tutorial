@@ -9,7 +9,7 @@
 
 -----------------------------
 
-**Purpose:** *Not sure yet but after tutorial will explain*
+**Purpose:** *Explains basic concepts and terms of Digital Images & it's elements*
 
 **Target Audience:** *For my prospective graphic designers and whomever is looking to learn*
 
@@ -59,6 +59,6 @@ Term | Definition
 **Indexed Color** | a technique to manage digital images' colors in a limited fashion, in order to save computer memory and file storage, while speeding up display refresh and file transfers. It is a form of vector quantization compression.
 **High Color** | a method of storing image information in a computer's memory such that each pixel is represented by two bytes.
 
-#### Go to Da Second Page for more
+#### Go to Da Second Page for Sources Cited
 
 [Da Second Page](DaSecondPage.md)
