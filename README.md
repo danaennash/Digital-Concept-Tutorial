@@ -5,7 +5,7 @@
 ## GETTING INTO DIGITAL IMAGES OR WUTEVER
 
 
-### *Author: Danae N Nash **(and sources)** *
+### *Author: Danae N Nash (and sources)*
 
 -----------------------------
 
