@@ -21,6 +21,9 @@
    * Depending on whether the image resolution is fixed, it may be of vector or raster type. 
    * By itself, the term “digital image” usually refers to raster images or bitmapped images (as opposed to vector images).
 
+### Click Image to go to Youtube Overview
+[![Video](https://www.comparethecloud.net/wp-content/uploads/2016/11/digital-brain-1.gif)](https://www.youtube.com/watch?v=15aqFQQVBWU&feature=youtu.be)
+
 ### Image Compression
 
 **Image Compression** is a type of data compression applied to digital images, to reduce their cost for storage or transmission.
@@ -42,3 +45,20 @@ Bitmap | Vector Graphics
 stored as a series of tiny dots called pixels. | the circle is defined as a shape and is represented by a mathematical construct.
 PNG, JPEG, and GIF | SVG
 When scaled (zoomed in), the pixels are made bigger so it looks blocky. | When scaled, the mathematical construct of the shape is used to draw it at that size and it is not blocky.
+
+#### Example of Bitmap(Raster) vs Vector Graphics
+
+![Graphics](https://qph.fs.quoracdn.net/main-qimg-bf865b35951b368f1e1e74ed358117d5)
+
+### Other Elements to Know
+
+Term | Definition
+---|---
+**Color Space** | a specific organization of colors.
+**Color Depth** | the number of bits used to indicate the color of a single pixel, in a bitmapped image or video framebuffer, or the number of bits used for each color component of a single pixel
+**Indexed Color** | a technique to manage digital images' colors in a limited fashion, in order to save computer memory and file storage, while speeding up display refresh and file transfers. It is a form of vector quantization compression.
+**High Color** | a method of storing image information in a computer's memory such that each pixel is represented by two bytes.
+
+#### Go to Da Second Page for more
+
+[Da Second Page](DaSecondPage.md)
