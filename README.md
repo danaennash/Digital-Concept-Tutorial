@@ -2,7 +2,7 @@
 
 
 
-## Getting Into Digital Images
+## GETTING INTO DIGITAL IMAGES
 
 
 ### *Author: Danae N Nash*
