@@ -12,3 +12,6 @@
 * <https://en.wikipedia.org/wiki/Color_depth>
 * <https://en.wikipedia.org/wiki/Indexed_color>
 * <https://en.wikipedia.org/wiki/High_color>
+
+
+[Back to Home](README.md)
